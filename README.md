@@ -24,7 +24,7 @@ Développeur full-stack et entrepreneur basé entre la France et le Maroc. Je co
 - 🏭 Architecte et développeur principal d'un **ERP complet pour un équipementier automobile certifié IATF 16949**
 - 🚀 Fondateur de plusieurs **SaaS B2B** pensés pour la France, le Maroc et l'Afrique
 - 📱 Web **et** mobile : Next.js côté web, React Native / Expo côté mobile
-- ⚡ La plupart de mes dépôts sont privés (projets clients et produits), les stats ci-dessous les incluent
+- ⚡ La plupart de mes dépôts sont privés (projets clients et produits)
 
 ---
 
@@ -108,22 +108,13 @@ SaaS de devis et facturation prêt pour la **facturation électronique obligatoi
 
 ---
 
-## 📊 Stats (dépôts privés inclus)
+## 📊 Stats
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=yboulhilat&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=3B82F6&currStreakLabel=3B82F6&date_format=j%20M%5B%20Y%5D" width="80%"/>
 
 <br/><br/>
-
-<img src="https://raw.githubusercontent.com/yboulhilat/yboulhilat/main/metrics.general.svg" width="49%"/>
-<img src="https://raw.githubusercontent.com/yboulhilat/yboulhilat/main/metrics.languages.svg" width="49%"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/yboulhilat/yboulhilat/main/metrics.calendar.svg" width="100%"/>
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yboulhilat&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=3B82F6&line=2563EB&point=FFFFFF" width="100%"/>
 
