@@ -3,12 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:2563eb&height=200&section=header&text=Youssef%20Boulhilat&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Full-stack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20ERP%20Architect&descAlignY=68&descSize=16" width="100%"/>
 
 <a href="https://github.com/yboulhilat">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Je+construis+des+ERP+industriels+certifi%C3%A9s+IATF+16949;Je+lance+des+SaaS+pour+le+Maroc+et+l'Afrique;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Prisma+%E2%80%A2+Postgres;40%2B+projets+livr%C3%A9s+en+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Je+construis+des+ERP+industriels+certifi%C3%A9s+IATF+16949;Je+lance+des+SaaS+pour+la+France%2C+le+Maroc+et+l'Afrique;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Prisma+%E2%80%A2+Postgres;40%2B+projets+livr%C3%A9s+en+production" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/📍_Maroc-0f172a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📍_France_•_Maroc-0f172a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/2_100%2B_contributions_%2F_an-2563eb?style=for-the-badge" />
 <img src="https://img.shields.io/badge/40%2B_dépôts-1e3a8a?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Sur_GitHub_depuis_2019-0f172a?style=for-the-badge" />
@@ -19,10 +19,10 @@
 
 ## 👨‍💻 À propos
 
-Développeur full-stack et entrepreneur basé au Maroc. Je conçois des logiciels métier qui tournent en production tous les jours : ERP industriel, SaaS B2B, plateformes scolaires, applications mobiles et sites pour des clients de tous secteurs.
+Développeur full-stack et entrepreneur basé entre la France et le Maroc. Je conçois des logiciels métier qui tournent en production tous les jours : ERP industriel, SaaS B2B, plateformes scolaires, applications mobiles et sites pour des clients de tous secteurs.
 
 - 🏭 Architecte et développeur principal d'un **ERP complet pour un équipementier automobile certifié IATF 16949**
-- 🚀 Fondateur de plusieurs **SaaS B2B** pensés pour le marché marocain et africain
+- 🚀 Fondateur de plusieurs **SaaS B2B** pensés pour la France, le Maroc et l'Afrique
 - 📱 Web **et** mobile : Next.js côté web, React Native / Expo côté mobile
 - ⚡ La plupart de mes dépôts sont privés (projets clients et produits), les stats ci-dessous les incluent
 
